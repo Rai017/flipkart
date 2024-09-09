@@ -1,0 +1,145 @@
+.navbar{
+    background-color: rgb(57, 57, 202);
+    height: 45px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.p{
+    color: yellow;
+    font-size: 0.90rem;
+    margin-left: 25px;
+}
+.logo{
+    font-size: 1.2rem;
+    margin-left: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+    
+
+
+.se{border: none;
+    width: 480px;
+    
+    
+}
+.box{
+    width: 40px;
+    background-color: white;
+    height: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(57, 57, 202);
+
+}
+
+
+    
+
+.bu{
+    height: 27px;
+    background-color: white;
+    border: none;
+    color: rgb(57, 57, 202);
+    font-weight: bolder;
+}
+.ex {
+    color: white;
+    display: flex;
+    
+    
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+.magn{
+    background-color: white;
+    color: rgb(57, 57, 202);
+    border: none;
+    height: 25px;
+    width: 550px;
+display: flex;
+justify-content: center;
+align-items: center;
+    
+}
+.seco{background-color: rgb(241, 240, 240);
+    height: 40px;
+    
+    
+    
+    
+    
+}
+.sec {
+    height: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    
+    
+}
+.a1{color: black;
+    margin-top: 5px;
+    font-size: 0.90rem;
+
+}
+.image{
+    
+ background-image: url(big.jpg);
+ height: 600px;
+ background-repeat: no-repeat;
+ background-size: cover;
+    
+}
+.third{
+    background-color: rgb(241, 240, 240);
+    height: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.a3{
+    color: black;
+    margin-right: 100px;
+}
+.butt{
+    background-color: rgb(57, 57, 202);
+    color: white;
+    border: none;
+    font-weight: bold;
+    margin-left: 120px;
+    width: 90px;
+    height: 20px;
+}
+.parag{
+    margin-right: 600px;
+}
+.buttt{
+    margin-left: 200px;
+    
+}
+.fou{
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    height: 300px;
+}
+.fo{
+    
+    height: 250px;
+    width: 250px;
+
+    
+}
